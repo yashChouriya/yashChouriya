@@ -1,4 +1,5 @@
 [![](https://visitcount.itsvg.in/api?id=yashChouriya&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
+![Visitor Count](https://profile-counter.glitch.me/yashChouriya/count.svg)
 
 # 💫 About Me:
 
