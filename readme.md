@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Yash Chouriya
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.yashchouriya.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yashchouriya.com/)
 [![PyPI](https://img.shields.io/badge/PyPi-yashChouriya-black.svg?logo=pypi&logoColor=white)](https://pypi.org/user/yashChouriya/)
 ![Visitor Count](https://komarev.com/ghpvc/?username=yashChouriya&style=flat)
 
