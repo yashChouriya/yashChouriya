@@ -45,8 +45,7 @@ Experienced **Full Stack Developer** with **4+ years** of success in delivering 
 ## 📊 GitHub Stats
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/yashChouriya?cardType=level-alternate&theme=nightowl&preferLogin=false)](https://git.io/awesome-stats-card)
-![](https://raw.githubusercontent.com/yashChouriya/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/yashChouriya/github-stats/master/generated/overview.svg#gh-light-mode-only)
+<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashChouriya&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
