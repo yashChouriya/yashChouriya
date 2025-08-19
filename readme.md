@@ -6,7 +6,7 @@
 
 ## 💫 About Me
 
-Experienced **Full Stack Developer** with **4+ years** of success in delivering exceptional software solutions. Proficient in the entire development lifecycle, I excel at troubleshooting complex issues and optimizing functionality. Skilled in cross-functional collaboration, I consistently deliver projects on time and within budget. Committed to problem-solving and achieving outstanding results, I bring extensive experience and a dedicated approach to delivering high-quality solutions.
+Experienced **Full Stack Developer** with **5+ years** of success in delivering exceptional software solutions. Proficient in the entire development lifecycle, I excel at troubleshooting complex issues and optimizing functionality. Skilled in cross-functional collaboration, I consistently deliver projects on time and within budget. Committed to problem-solving and achieving outstanding results, I bring extensive experience and a dedicated approach to delivering high-quality solutions.
 
 ## 💻 Tech Stack
 
