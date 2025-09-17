@@ -54,9 +54,6 @@ Experienced **Full Stack Developer** with **5+ years** of success in delivering 
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yashChouriya&theme=highcontrast&no-frame=false&margin-w=4&margin-h=4)
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=yashChouriya&theme=algolia&no-frame=true&no-bg=true&margin-w=5&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 ## 📫 Connect with Me
 
