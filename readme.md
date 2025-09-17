@@ -17,10 +17,12 @@ Experienced **Full Stack Developer** with **5+ years** of success in delivering 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/react-23232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/> 
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB" alt="Express.js"/>
   <img src="https://img.shields.io/badge/django-000?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/flask-000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/> 
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT"/>
   <img src="https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="MUI"/>
   <img src="https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
@@ -51,6 +53,10 @@ Experienced **Full Stack Developer** with **5+ years** of success in delivering 
 ## 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yashChouriya&theme=highcontrast&no-frame=false&margin-w=4&margin-h=4)
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=yashChouriya&theme=algolia&no-frame=true&no-bg=true&margin-w=5&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## 📫 Connect with Me
 
