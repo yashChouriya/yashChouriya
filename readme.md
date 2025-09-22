@@ -3,6 +3,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yashchouriya.com/)
 [![PyPI](https://img.shields.io/badge/PyPi-yashChouriya-black.svg?logo=pypi&logoColor=white)](https://pypi.org/user/yashChouriya/)
 ![Visitor Count](https://komarev.com/ghpvc/?username=yashChouriya&style=flat)
+[![Vaunt
+Community](https://api.vaunt.dev/v1/github/entities/yashChouriya/badges/community)](https://community.vaunt.dev/board/yashChouriya)
 
 ## 💫 About Me
 
@@ -59,6 +61,23 @@ Experienced **Full Stack Developer** with **5+ years** of success in delivering 
 ## 📊 GitHub Stats
 
 <div align="left">
+
+<div>
+    <a href="https://vaunt.dev">
+      <img
+        src="https://api.vaunt.dev/v1/github/entities/yashChouriya/contributions?format=svg&private=true"
+        width="350"
+        title="Includes public and private contributions"
+      />
+    </a>
+    <a href="https://community.vaunt.dev/board/yashChouriya/achievements">
+      <img
+        src="https://api.vaunt.dev/v1/github/entities/yashChouriya/achievements?format=svg&limit=3"
+        width="350"
+      />
+    </a>
+</div>
+
   
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashChouriya&theme=2077" alt="Profile Details" height="200"/>
   <a href="https://git.io/awesome-stats-card" height="200">
@@ -74,7 +93,17 @@ Experienced **Full Stack Developer** with **5+ years** of success in delivering 
 
 
 ## 🏆 GitHub Trophies
-
+<p align="left">
+ <a href="https://community.vaunt.dev/board/yashChouriya/achievements">
+    <img
+      decoding="async"
+      loading="lazy"
+      src="https://api.vaunt.dev/v1/github/entities/jeff1010322/achievements?format=svg&limit=8&raw=true"
+      width="350"
+    />
+  </a>
+</p>
+  
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=yashChouriya&theme=highcontrast&no-frame=false&margin-w=4&margin-h=4"/>
 </p>
