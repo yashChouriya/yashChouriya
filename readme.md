@@ -86,9 +86,9 @@ Experienced **Full Stack Developer** with **5+ years** of success in delivering 
   </a>
 </p>
   
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashChouriya&theme=highcontrast&no-frame=false&margin-w=4&margin-h=4"/>
-</p>
+
+[![trophy](https://github-trophies.vercel.app/?username=yashChouriya)](https://github.com/yashChouriya/github-trophies)
+
 
 ## 📫 Connect with Me
 
