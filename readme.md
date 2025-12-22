@@ -58,8 +58,18 @@ Experienced **Full Stack Developer** with **5+ years** of success in delivering 
 </div>
 
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
+<p align="left">
+ <a href="https://community.vaunt.dev/board/yashChouriya/achievements">
+    <img
+      decoding="async"
+      loading="lazy"
+      src="https://github-trophies.vercel.app/?username=yashChouriya&theme=radical&row=2&col=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B"
+    />
+  </a>
+</p>
 
+## 📊 GitHub Stats
 <div align="left"> 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashChouriya&theme=2077" alt="Profile Details" height="200"/>
   <a href="https://git.io/awesome-stats-card" height="200">
@@ -73,8 +83,6 @@ Experienced **Full Stack Developer** with **5+ years** of success in delivering 
 
 </div>
 
-
-## 🏆 GitHub Trophies
 <p align="left">
  <a href="https://community.vaunt.dev/board/yashChouriya/achievements">
     <img
@@ -85,10 +93,6 @@ Experienced **Full Stack Developer** with **5+ years** of success in delivering 
     />
   </a>
 </p>
-  
-
-[![trophy](https://github-trophies.vercel.app/?username=yashChouriya)](https://github.com/yashChouriya/github-trophies)
-
 
 ## 📫 Connect with Me
 
