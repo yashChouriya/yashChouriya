@@ -64,7 +64,7 @@ Experienced **Full Stack Developer** with **5+ years** of success in delivering 
     <img
       decoding="async"
       loading="lazy"
-      src="https://github-trophies.vercel.app/?username=yashChouriya&theme=radical&row=2&col=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B"
+      src="https://github-trophies.vercel.app/?username=yashChouriya&theme=radical&row=2&col=6&rank=SECRET,SSS,SS,S,AAA,AA,A"
     />
   </a>
 </p>
