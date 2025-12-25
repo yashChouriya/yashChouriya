@@ -71,7 +71,6 @@ Experienced **Full Stack Developer** with **5+ years** of success in delivering 
 
 ## 📊 GitHub Stats
 <div align="left"> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashChouriya&theme=2077" alt="Profile Details" height="200"/>
   <a href="https://git.io/awesome-stats-card" height="200">
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/yashChouriya?cardType=level-alternate&theme=nightowl&preferLogin=false" alt="Awesome GitHub Stats" height="200"/>
   </a>
