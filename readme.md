@@ -77,7 +77,9 @@ Experienced **Full Stack Developer** with **5+ years** of success in delivering 
 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashChouriya&theme=2077" alt="Repos per Language" height="200"/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashChouriya&theme=merko" alt="Profile Details" height="200"/>
+  <p align="left">
+     <img src="https://yourinsights.vercel.app/api/insight?username=yashchouriya&theme=github_dark&graph=false&languages=false&streak=true&stats=false&header=false&summary=false&profile=false" alt="GitHub Insights" />
+  </p>
 
 </div>
 
